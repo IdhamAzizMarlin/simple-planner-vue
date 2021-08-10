@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new website",
+      "details": "lorem ipsum dolor sir amet",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "lorem ipsum lenovo",
+      "complete": true
+    },
+    {
+      "title": "Make a banner",
+      "details": "let the time healing",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Future is so bright",
+      "details": "i dont know but for sure i'll be the best of me",
+      "complete": true,
+      "id": 4
+    }
+  ]
+}
